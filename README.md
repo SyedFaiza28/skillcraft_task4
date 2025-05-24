@@ -12,3 +12,10 @@ Analyze how weather conditions affect accident severity.
 Visualize relationships between weather (e.g., fog, rain, temperature) and accident counts/severity.
 
 Identify patterns in location (latitude/longitude), time, and environmental conditions.
+
+Libraries Used:
+
+pandas
+matplotlib
+seaborn
+numpy
